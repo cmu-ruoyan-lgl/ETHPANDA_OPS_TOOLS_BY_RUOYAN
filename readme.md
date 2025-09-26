@@ -11,8 +11,8 @@
 ```
 
 **后续步骤：**
-1. 使用 **imageye** 下载原文中的图片，保存到 `[文章名称]/images/` 文件夹
-2. 使用 **weblnk** 下载格式为 markdown，保存为 `[文章名称]/page.md`
+1. 使用 **imageye** （chrome 插件）下载原文中的图片，保存到 `[文章名称]/images/` 文件夹
+2. 使用 **weblnk** （chrome 插件）下载格式为 markdown，保存为 `[文章名称]/page.md`
 3. 执行核心处理命令：
 
 ```bash
